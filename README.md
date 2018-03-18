@@ -1,6 +1,6 @@
 #  WhistReactNative
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
-
+[![Build status](https://build.appcenter.ms/v0.1/apps/8ece0f75-42bc-4037-972c-c879afae0f62/branches/master/badge)](https://appcenter.ms)
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
 ## :arrow_up: How to Setup
