@@ -57,5 +57,4 @@ buck-out/
 .env
 
 # Tests
-**/__snapshots__
 coverage
