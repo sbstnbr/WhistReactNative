@@ -17,7 +17,8 @@ export default class DevscreensButton extends React.Component {
   }
 
   render () {
-    if (DebugConfig.showDevScreens) {
+    // if (DebugConfig.showDevScreens) {
+    if (true) {
       return (
         <View>
           <RoundedButton onPress={this.toggleModal}>
